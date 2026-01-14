@@ -25,3 +25,7 @@ Schedule
     * Class Activity 3: Growth (part 2) (10 min)
 
 * [Motion](./05_motion.md) (10 min)
+
+## lecture 4- motion 
+
+> video of bowling ball and feathers dropped in a vacuum chamber
