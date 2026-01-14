@@ -15,6 +15,9 @@ To bring
 * Activity 3: Growth
 * 
 
+Announcements
+* Energy in the home instructions
+
 Schedule
 * Questions on Homework (10 min)
 * Class Activity 2: Energy around the world (15 min)
@@ -26,6 +29,6 @@ Schedule
 
 * [Motion](./05_motion.md) (10 min)
 
-## lecture 4- motion 
+## Lecture 4 - Laws of Motion 
 
 > video of bowling ball and feathers dropped in a vacuum chamber
