@@ -1,8 +1,4 @@
----
-layout: default
-title: Work, Energy, and Power
----
-<!--<head>
+<head>
 <script>
 MathJax = {
   tex: {
@@ -12,8 +8,7 @@ MathJax = {
 };
 </script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-</head>-->
-
+</head>
 
 # Work, Energy, and Power
 
