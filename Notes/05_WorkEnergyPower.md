@@ -55,9 +55,9 @@ Generally, we deal with an interchange (conversion) of energy between KE and PE
 
 $$W = \Delta KE$$
 
-* Recall: $$\Delta KE = KE_f - KE_0$$
-* If $$KE_f > KE_0$$ (more KE after), then there is an increase in KE, and $$W = \Delta KE > 0$$ (object accelerates in the direction of the force)
-* If $$KE_f < KE_0$$ (less KE after), then there is a decrease in KE, and $$W = \Delta KE < 0$$ (object accelerates in the opposite direction of the force)
+* Recall: $\Delta KE = KE_f - KE_0$
+* If \[KE_f > KE_0\] (more KE after), then there is an increase in KE, and $$W = \Delta KE > 0$$ (object accelerates in the direction of the force)
+* If $`KE_f < KE_0`$ (less KE after), then there is a decrease in KE, and $$W = \Delta KE < 0$$ (object accelerates in the opposite direction of the force)
 
 However, there are other forces that could be involved. For example, if friction is involved, then this interaction causes a loss of heat to thermal energy:
 
@@ -109,6 +109,7 @@ This produces a common unit of energy when calculating it this way: the kilowatt
 > An electric heater has a power rating of 1500 W (1.5kW). If electricity costs $0.12 per kWh, how much will it cost to run the heater for 6 hours?
 >
 > $$energy = 1500 W \times 6 hrs = 1.5 kW \times 6 hrs = 9.0 kWh$$
+>
 > $$9.0 kWh\times \frac{\$0.12}{1 kWh}=\$1.08$$
 
 Energy per capita and power output per capita are the average energy/power output per person.
@@ -118,7 +119,9 @@ Energy per capita and power output per capita are the average energy/power outpu
 > * Total energy usage in one year: 97.8 quads
 >
 > $$energy = 97.8~\tfrac{quads}{year} \times \frac{1055*10^{15}~J}{1~quads} = 1.03*10^{20}\tfrac{J}{year}$$
+>
 > $$\begin{align*}energy~per~capita &= \frac{1.03*10^{20}~J/year}{332,000,000~people} \\ &= 3.1078*10^{11} \tfrac{J/person}{year} \\&= 310.78 \tfrac{GJ/person}{year}\end{align*}$$
+>
 > $$\begin{align*}power~output &= \frac{energy~used}{time} \\&= \frac{3.1078*10^{11}J/person}{1 year \times \tfrac{365 days}{1 year} \times \tfrac{24 hours}{1 day} \times \frac{3600 s}{1 hour}} \\&= 9855~W/person\end{align*}$$
 
 ## Activity: Energy Usage
