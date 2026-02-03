@@ -49,7 +49,7 @@ Generally, we deal with an interchange (conversion) of energy between KE and PE
 > Demo: Roll a ball - exert work to gain energy
 
 $$W = \Delta KE$$
-* Recall: $\Delta KE = KE_f - KE_0$
+* Recall: $$\Delta KE = KE_f - KE_0$$
 * If $KE_f > KE_0$ (more KE after), then there is an increase in KE, and $W = \Delta KE > 0$ (object accelerates in the direction of the force)
 * If $KE_f < KE_0$ (less KE after), then there is a decrease in KE, and $W = \Delta KE < 0$ (object accelerates in the opposite direction of the force)
 
