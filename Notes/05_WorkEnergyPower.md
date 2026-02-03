@@ -57,7 +57,7 @@ $$W = \Delta KE$$
 
 * Recall: $\Delta KE = KE_f - KE_0$
 * If \[KE_f > KE_0\] (more KE after), then there is an increase in KE, and $$W = \Delta KE > 0$$ (object accelerates in the direction of the force)
-* If $`KE_f < KE_0`$ (less KE after), then there is a decrease in KE, and $$W = \Delta KE < 0$$ (object accelerates in the opposite direction of the force)
+* If \(KE_f < KE_0\) (less KE after), then there is a decrease in KE, and $$W = \Delta KE < 0$$ (object accelerates in the opposite direction of the force)
 
 However, there are other forces that could be involved. For example, if friction is involved, then this interaction causes a loss of heat to thermal energy:
 
