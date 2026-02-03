@@ -8,8 +8,11 @@ Welcome to the Physics of Energy course at Snow College!
 * [Exponential Growth](./04_exponentialgrowth.md)
 
 ## Basic Physics
-* [Motion](./05_motion.md)
-* [Laws of Motion](./06_lawsofmotion.md)
-* [Work and Energy](./07_energy.md)
-* [Power](./08_power.md)
-* [Conservation of Energy](./09_conservationofenergy.md)
+* [Units](./Notes/01_units.md)
+* [Growth and Resources](./Notes/02_growth.md)
+* [Motion](./Notes/03_motion.md)
+* [Laws of Motion](./Notes/04_LawsOfMotion.md)
+* [Work, Energy, and Power](./Notes/05_WorkEnergyPower.md)
+* [Conservation of Energy](./Notes/06_ConservationOfEnergy.md)
+* [Thermal Energy](./Notes/07_ThermalEnergy.md)
+* [Heat]()

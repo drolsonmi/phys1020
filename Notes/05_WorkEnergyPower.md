@@ -3,6 +3,14 @@
 Reading:
 * a
 
+Materials Needed:
+* Tennis ball
+
+Activities:
+* In-class Activity: Work, Energy, and Power
+    * Materials: Tapemeasures, Stopwatches
+* Energy Usage Activity
+
 -----
 
 ## Work
@@ -59,7 +67,7 @@ More on heat will be addressed in future lectures.
 
 ## Power
 __Power__ is the rate at which energy is transferred
-$$Power = \frac{work done}{time taken} = \frac{energy used}{time taken}$$
+$$Power = \frac{work~done}{time~taken} = \frac{energy~used}{time~taken}$$
 
 The main unit for power is the Watt:
 $$1W = \frac{1 J}{1 sec}$$
@@ -67,22 +75,27 @@ $$1W = \frac{1 J}{1 sec}$$
 1 Watt is the equivalent of lifting one apple by one meter every second.
 
 > I lift a box of 20 apples (0.1 kg each) from the floor to a shelf 2.5 m high in a time of 4.0 sec. How much work have I done?
-> $$W=Δ(KE+PE)=PE_f-PE_i=mgh_f-mgh_i=(20*0.1kg)(10)2.5m-0=50J$$
+> $$\begin{align*}W &= \Delta (KE+PE) \\ &= PE_f - PE_i \\ &= mgh_f - mgh_i \\ &= (20*0.1kg)(10)2.5m - 0 \\ &= 50J\end{align*}$$
 >
 > What was my power output?
-> $$Power=(work done)/(time taken)=50J/(4 sec)=12.5 W$$
+> $$Power = \frac{work~done}{time} = \frac{50 J}{4 s} = 12.5 W$$
 
 We can use the power output of some device and the time used to find out the energy used to run the device:
-energy used=Power×time taken
-A common unit of energy when calculating it this way is the kilowatt-hour (kWh).
-An electric heater has a power rating of 1500 W (1.5kW). If electricity costs $0.12 per kWh, how much will it cost to run the heater for 6 hours?
-energy=1500W×6hrs=1.5kW×6hrs=9.0 kWh
-9.0 kWh×$0.12/(1 kWh)=$1.08
-Energy per capita and power output per capita are the average energy/power output per person.
-What is the average energy consumption and power output of people in the U.S.? (per capita energy consumption and per capita power output)
-    U.S. population: 332 million
-    Total energy usage in one year: 97.8 quads
-energy=97.8 quads×(1055*10^15 J)/(1 quads)=1.03*10^20 J
-energy per capita=(1.03*10^20 J)/(332,000,000 people)=3.1078*10^11  J/person=310.78 GJ/person
+$$Energy~used~=~Power \times time$$
 
-power output=(energy used)/(time taken)=(3.1078*10^11  J/person)/(1 year)×(1 year)/(365 days)×(1 day)/(24 hours)×(1 hour)/(3600 sec)=9855 W/person
+This produces a common unit of energy when calculating it this way: the kilowatt-hour (kWh).
+
+> An electric heater has a power rating of 1500 W (1.5kW). If electricity costs $0.12 per kWh, how much will it cost to run the heater for 6 hours?
+> $$energy = 1500 W \times 6 hrs = 1.5 kW \times 6 hrs = 9.0 kWh$$
+> $$9.0 kWh\times \frac{\$0.12}{1 kWh}=\$1.08$$
+
+Energy per capita and power output per capita are the average energy/power output per person.
+
+> What is the average energy consumption and power output of people in the U.S.? (per capita energy consumption and per capita power output)
+> * U.S. population: 332 million
+> * Total energy usage in one year: 97.8 quads
+> $$energy = 97.8~\tfrac{quads}{year} \times \frac{1055*10^{15}~J}{1~quads} = 1.03*10^{20}\tfrac{J}{year}$$
+> $$\begin{align*}energy~per~capita &= \frac{1.03*10^{20}~J/year}{332,000,000~people} \\ &= 3.1078*10^{11} \tfrac{J/person}{year} \\&= 310.78 \tfrac{GJ/person}{year}\end{align*}$$
+> $$\begin{align*}power~output &= \frac{energy~used}{time} \\&= \frac{3.1078*10^{11}J/person}{1 year \times \tfrac{365 days}{1 year} \times \tfrac{24 hours}{1 day} \times \frac{3600 s}{1 hour}} \\&= 9855~W/person\end{align*}$$
+
+## Activity: Energy Usage
