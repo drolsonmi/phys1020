@@ -10,6 +10,11 @@ MathJax = {
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>-->
 
+---
+layout: default
+title: Work, Energy, and Power
+---
+
 # Work, Energy, and Power
 
 Reading:
