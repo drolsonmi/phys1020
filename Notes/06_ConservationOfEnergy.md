@@ -1,8 +1,14 @@
 <head>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
-
 # Conservation of Energy
 
 Reading:
@@ -50,31 +56,29 @@ The total amount of energy remains the same.
 
 > Demo Video: [Walter Lewin’s pendulum demonstration](https://www.youtube.com/watch?v=77ZF50ve6rs)
 
+> Water at the top of a 500-m hydroelectric dam goes over the spillway, how fast will the water be going when it reaches the bottom?
+>
+> $$\begin{align*}E_0 &= E_f \\ KE_0 + PE_0 &= KE_f + PE_f \\ PE_0 &= KE_f \\ mgh &= \frac{1}{2}mv^2 \\ gh &= \frac{1}{2}v^2 \\ \sqrt{2gh} &= v \\ \sqrt{2*9.8*500} &= v \\ 99.0 m/s &= v\end{align*}$$
+
 ---
 
 ## Energy Conversion Efficiencies
 
-**Demo:** Rubber ball
+> Demo: Rubber ball
 
 Sometimes energy is not fully converted into a single type. A rubber ball does not bounce as high as the height it was dropped from.
-
-- Work done by the floor squishes the ball and reintroduces thermal energy (TE)
+* Work done by the floor squishes the ball and reintroduces thermal energy (TE)
 
 Efficiency measures how much energy is conserved in a conversion process:
 
-\[
-\text{Efficiency} = \frac{\text{Energy output}}{\text{Energy input}} \times 100\%
-\]
+$$\text{Efficiency} = \frac{\text{Energy output}}{\text{Energy input}} \times 100\%$$
 
 For a bouncing ball:
 
-\[
-\text{Output} = PE_f
-\]
+$$\text{Output} = PE_f$$
 
-\[
-\text{Input} = PE_i
-\]
+$$\text{Input} = PE_i$$
 
 Sometimes we take advantage of energy losses to do work—for example, generating electricity. A fuel releases energy, and part of that energy is converted into useful work. It is impossible to recover 100% of the energy, so efficiency tells us how much we recover.
 
+> A coal-burning power plant burns enough coal to release 650 MJ of energy. The electrical output from this plant is 260 MJ. What is the efficiency of this powerplant?
