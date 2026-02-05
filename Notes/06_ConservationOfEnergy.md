@@ -99,10 +99,10 @@ $$eff_{total} = eff_1 * eff_2 * eff_3 * \dots$$
 
 > The electricity from the coal power plant loses 40% of its energy in the conversion from the coal to electricity. The electricity then has to pass through cables (70% efficiency), then through the converters to make your electricity usable (70% efficiency), then through the coils in your stove (30% efficiency), then through the pan and into your food (50% efficiency). What is the total efficiency? And how much of the original 650 MJ can potentially make it to your food?
 >
-> *Note*: 40\% is "40 per cent" or "40 per 100". So, $40\% = \tfrac{40}{100} = 0.40$
+> *Note*: 40% is "40 per cent" or "40 per 100". So, $40\% = \tfrac{40}{100} = 0.40$
 >
 > $$eff_{total} = 0.40 * 0.70 * 0.70 * 0.30 * 0.50 = 0.0294 = 2.94\%$$
 >
-> 2.94\% of 650 MJ is,
+> 2.94% of 650 MJ is,
 >
 > $$0.0294 * 650 MJ = 19.11 MJ$$
