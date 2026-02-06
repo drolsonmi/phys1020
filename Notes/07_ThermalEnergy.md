@@ -1,14 +1,26 @@
 <head>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script>
+MathJax = {
+  tex: {
+    inlineMath: [['$', '$'], ['\\(', '\\)']],
+    displayMath: [['$$', '$$'], ['\\[', '\\]']]
+  }
+};
+</script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 
-# Lecture 8: Thermal Energy
+# Unit 2: Thermodynamics
 In this second unit, we’ll look at our first and most basic use of energy: **heating**. To understand this, we need to learn about **thermodynamics**:
 
 - **Thermo-** = heat  
 - **-dynamics** = motion  
 
+After we discuss thermodynamics, we talk about using heat to harness energy. In particular, we will look at the use of __fossil fuels__.
+
+-----
+
+# Thermal Energy
 Reading:
 * Textbook sections 5A–5C  
 
@@ -18,6 +30,7 @@ Materials:
 * Steam engine
 
 -----
+
 ## The First Two Laws of Thermodynamics
 
 There are four basic laws of thermodynamics. We’ll learn them over the next few days.
@@ -54,6 +67,8 @@ Examples:
 References:
 - *Figure 5.2:* Adding Work and Heat  
 - *Figure 5.3:* Using work to increase thermal energy  
+![Figure 5.2: Work done or heat added](./images/07_WorkAndHeat.png) ![Figure 5.3: Using work to increase thermal energy](./images/07_AdiabaticDevice.png)
+
 
 
 ## Temperature
@@ -63,16 +78,17 @@ References:
 - Hot temperatures → molecules move quickly  
 - Cold temperatures → molecules move slowly  
 
-| Reference Point                               | Fahrenheit | Celsius | Kelvin  |
-| --------------------------------------------: | :--------: | :-----: | :-----: |
-| Boiling point of water                        | 212°F      | 100°C   | 373 K   |
-| Human body temperature                        | ~100°F     | 37.8°C  | 310.8 K |
-| Room temperature                              | 72°F       | ~22°C   | 295 K   |
-| Average global temperature                    | 59°F       | 15°C    | 288 K   |
-| Freezing point of water                       | 32°F       | 0°C     | 273 K   |
-| Freezing point of an alcohol–saline solution  | 0°F        | -17.8°C | 255.2 K |
-| Absolute zero                                 | -460°F     | -273°C  | 0 K     |
+| Reference Point                               | Fahrenheit | Celsius   | Kelvin    |
+| --------------------------------------------: | :--------: | :-------: | :-------: |
+| Boiling point of water                        | *212°F*    | __100°C__ | *373 K*   |
+| Human body temperature                        | __~100°F__ | *37.8°C*  | *310.8 K* |
+| Room temperature                              | 72°F       | *~22°C*   | *295 K*   |
+| Average global temperature                    | *59°F*     | 15°C      | *288 K*   |
+| Freezing point of water                       | 32°F       | __0°C__   | __273 K__ |
+| Freezing point of an alcohol–saline solution  | __0°F__    | *-17.8°C* | *255.2 K* |
+| Absolute zero                                 | *-460°F*   | *-273°C*  | __0 K__   |
 
+> Provide this table with just the basis temperatures. Fill in values as we discuss them. Have students convert the numbers in italics.
 
 ### Basis of Temperature Scales
 

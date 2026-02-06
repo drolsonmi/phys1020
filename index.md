@@ -17,4 +17,4 @@ Welcome to the Physics of Energy course at Snow College!
 * [Work, Energy, and Power](./Notes/05_WorkEnergyPower.md)
 * [Conservation of Energy](./Notes/06_ConservationOfEnergy.md)
 * [Thermal Energy](./Notes/07_ThermalEnergy.md)
-* [Heat]()
+* [Heat](./Notes/08_Heat.md)
