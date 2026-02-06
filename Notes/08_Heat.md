@@ -23,7 +23,7 @@ Reading:
 * 5C-5F
 
 Materials:
-* Convection cycle tube, food coloring, food warmer/candle, matches, Stirling engine  
+* Convection cycle tube, food coloring, food warmer/candle, matches
 
 Activities:
 

@@ -26,8 +26,6 @@ Reading:
 
 Materials:
 * Adiabatic Compression device
-* Sterling engine, Heating pot, Warm cup
-* Steam engine
 
 -----
 
@@ -65,10 +63,11 @@ Examples:
   - Heat applied **from the flame** is **to the water**
 
 References:
+![Figure 5.2: Work done or heat added](./images/07_WorkAndHeat.png) ![Figure 5.3: Using work to increase thermal energy](./images/07_AdiabaticDevice.png)
 - *Figure 5.2:* Adding Work and Heat  
 - *Figure 5.3:* Using work to increase thermal energy  
-![Figure 5.2: Work done or heat added](./images/07_WorkAndHeat.png) ![Figure 5.3: Using work to increase thermal energy](./images/07_AdiabaticDevice.png)
 
+> Demo: Adiabatic Compression - using work to increase thermal energy
 
 
 ## Temperature
