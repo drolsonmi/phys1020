@@ -4,12 +4,10 @@ Welcome to the Physics of Energy course at Snow College!
 ## Introductory Material
 * [Units](./Notes/01_units.md)
 * [Growth and Resources](./Notes/02_growth.md)
-<!--
-* [Units](./01_units.md)
-* [Multiple Units](./02_multipleunits.md)
-* [Linear Growth](./03_lineargrowth.md)
-* [Exponential Growth](./04_exponentialgrowth.md)
--->
+<!--* [Units](./01_units.md)-->
+<!--* [Multiple Units](./02_multipleunits.md)-->
+<!--* [Linear Growth](./03_lineargrowth.md)-->
+<!--* [Exponential Growth](./04_exponentialgrowth.md)-->
 
 ## Basic Physics
 * [Motion](./Notes/03_motion.md)
@@ -19,3 +17,6 @@ Welcome to the Physics of Energy course at Snow College!
 * [Thermal Energy](./Notes/07_ThermalEnergy.md)
 * [Heat](./Notes/08_Heat.md)
 * [Heat Engines](./Notes/09_HeatEngines.md)
+
+## Resources
+* [Equation Sheet](./Resources/PHYS1020_EquationSheet.pdf)
