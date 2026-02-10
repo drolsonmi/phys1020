@@ -77,6 +77,11 @@ References:
 - Hot temperatures → molecules move quickly  
 - Cold temperatures → molecules move slowly  
 
+### Basis of Temperature Scales
+
+- **Fahrenheit scale:** Based on human body temperature and the freezing point of a stable saline–alcohol solution  
+- **Celsius scale:** Based on the freezing and boiling points of water  
+
 | Reference Point                               | Fahrenheit | Celsius   | Kelvin    |
 | --------------------------------------------: | :--------: | :-------: | :-------: |
 | Boiling point of water                        | *212°F*    | __100°C__ | *373 K*   |
@@ -89,16 +94,15 @@ References:
 
 > Provide this table with just the basis temperatures. Fill in values as we discuss them. Have students convert the numbers in italics.
 
-### Basis of Temperature Scales
-
-- **Fahrenheit scale:** Based on human body temperature and the freezing point of a stable saline–alcohol solution  
-- **Celsius scale:** Based on the freezing and boiling points of water  
-
 Converting Celsius to Fahrenheit:
 $$T^{^\circ\text{F}} = \frac{9}{5}T^{^\circ\text{C}} + 32$$
 
+> Class Activity 7 Part 1: In the temperature table, convert the temperatures given in Celsius to Fahrenheit.
+
 Converting Fahrenheit to Celsius:
 $$T^{^\circ\text{C}} = \frac{5}{9}(T^{^\circ\text{F}} - 32)$$
+
+> Class Activity 7 Part 2: In the temperature table, convert the temperatures given in Fahrenheit to Celsius.
 
 ### Absolute Zero
 
@@ -108,6 +112,8 @@ $$T^{^\circ\text{C}} = \frac{5}{9}(T^{^\circ\text{F}} - 32)$$
 
 Kelvin conversion:
 $$T^K = T^{^\circ\text{C}} + 273$$
+
+> Class Activity 7 Part 3: Complete the rest of the temperature table
 
 ## States of Matter
 
