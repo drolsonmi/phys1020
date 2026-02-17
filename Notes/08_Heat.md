@@ -12,12 +12,12 @@ MathJax = {
 
 # Heat
 
-**Heat:** Transfer of energy due to a difference in temperature
+__Heat:__ Transfer of energy due to a difference in temperature
 
 Types of heat — what is the result of the energy being transferred?
 
-- **Specific heat:** Transfer of energy resulting in a change in temperature  
-- **Latent heat:** Transfer of energy resulting in a change in the state of matter  
+- __Specific heat:__ Transfer of energy resulting in a change in temperature  
+- __Latent heat:__ Transfer of energy resulting in a change in the state of matter  
 
 Reading:
 * 5C-5F
@@ -30,13 +30,13 @@ Activities:
 
 ## Specific Heat
 
-- Depends on **mass** — more mass means more energy is needed to heat it up  
-- Depends on the **material** — some materials require more energy to heat up  
+- Depends on __mass__ — more mass means more energy is needed to heat it up  
+- Depends on the __material__ — some materials require more energy to heat up  
 - Specific heats of common substances (Table 4.2)
 
 $$Q = mc\Delta T = mc(T_f - T_0)$$
 
-> How much heat is required to raise the temperature of **7 gallons of water** from room temperature (70°F) to the boiling point (212°F)?
+> How much heat is required to raise the temperature of __7 gallons of water__ from room temperature (70°F) to the boiling point (212°F)?
 >
 > - 1 gallon of water weighs 8.34 lb  
 > 
@@ -48,7 +48,7 @@ $$Q = mc\Delta T = mc(T_f - T_0)$$
 > $$Q = 8{,}389.96 \text{ Btu} \approx 8{,}745{,}908 \text{ J}$$
 
 
-> How much heat must **25 kg of water** lose to cool from 16°C to 6°C?
+> How much heat must __25 kg of water__ lose to cool from 16°C to 6°C?
 >
 > $$\Delta T = -10°C$$
 >
@@ -56,33 +56,33 @@ $$Q = mc\Delta T = mc(T_f - T_0)$$
 >
 > $$Q = -1{,}046{,}500 \text{ J}$$
 
-> If you apply **15,000 J** of heat to **8.0 kg of copper** $(c_{\text{Cu}} = 387 \text{ J/kg°C})$, how much does the temperature increase?
+> If you apply __15,000 J__ of heat to __8.0 kg of copper__ $(c_{\text{Cu}} = 387 \text{ J/kg°C})$, how much does the temperature increase?
 >
 > $$\Delta T = \frac{Q}{mc} = \frac{15{,}000}{8.0 \times 387} = 4.8°C$$
 
 
 ## Latent Heat
 
-- Sometimes heat is applied to **change the state of matter**
-- When this happens, **temperature does not change**
+- Sometimes heat is applied to __change the state of matter__
+- When this happens, __temperature does not change__
 - Depends on mass — more mass requires more energy
 
 $$Q = mL$$
 
-- **Heat of vaporization**: Energy absorbed to evaporate $(L_V)$  
+- __Heat of vaporization__: Energy absorbed to evaporate $(L_V)$  
   - Condensation releases energy $(-L_V)$ 
   - $L_V = 2260 \text{ kJ/kg}$ for water  
 
-- **Heat of fusion**: Energy released to freeze $(-L_F)$  
+- __Heat of fusion__: Energy released to freeze $(-L_F)$  
   - Melting absorbs energy $(L_F)$  
   - $L_F = 335 \text{ kJ/kg}$ for water  
 
 
-> How much heat is required to melt **5 kg of ice at 0°C**?
+> How much heat is required to melt __5 kg of ice at 0°C__?
 >
 > $$Q = 5 \text{ kg} \times 335 \text{ kJ/kg} = 1675 \text{ kJ} = 1{,}675{,}000 \text{ J}$$
 
-> How much heat is required to evaporate **5 kg of water at 100°C**?
+> How much heat is required to evaporate __5 kg of water at 100°C__?
 >
 > $$Q = 5 \text{ kg} \times 2260 \text{ kJ/kg} = 11{,}300 \text{ kJ} = 11{,}300{,}000 \text{ J}$$
 
@@ -104,29 +104,29 @@ As heat is absorbed/released
 >
 > ![XKCD comic on evaporative cooling](https://imgs.xkcd.com/comics/hand_dryers.png)
 
-> How much heat is required to **melt 5 kg of ice at 0°C**, **raise the temperature to 100°C**, and **evaporate it**?
+> How much heat is required to __melt 5 kg of ice at 0°C__, __raise the temperature to 100°C__, and __evaporate it__?
 > 1. Melt the ice
 > 2. Raise the temperature
 > 3. Evaporate the water 
 > 4. Add them together to get the total
 >
-> 1. **Melt the ice**
+> 1. __Melt the ice__
 >
 > $$Q_1 = mL_F = 5 \times 335 \text{ kJ/kg} = 1{,}675{,}000 \text{ J}$$
 >
-> 2. **Raise the temperature**
+> 2. __Raise the temperature__
 >
 > $$Q_2 = mc(T_f - T_i) = 5 \times 4186 \times (100 - 0) = 2{,}093{,}000 \text{ J} $$
 >
-> 3. **Evaporate the water**
+> 3. __Evaporate the water__
 >
 > $$Q_3 = mL_V = 5 \times 2260 \text{ kJ/kg} = 11{,}300{,}000 \text{ J}$$
 >
-> 4. **Total energy**
+> 4. __Total energy__
 >
 > $$Q = Q_1 + Q_2 + Q_3 = 15{,}068{,}000 \text{ J}$$
 
-**Question:** Which stage takes the most energy?
+__Question:__ Which stage takes the most energy?
 
 ---
 
@@ -151,7 +151,7 @@ __Conduction__ is the transfer of energy from molecule to molecule
 __Conduction__ is the transfer of energy from molecule to molecule. Think of this like billiard balls hitting each other.
 
 Some materials conduct heat faster than others. Factors that come into the rate of heat: 
-- The **thermal conductivity** ($k$) is a value that indicates how quickly energy conducts through that material
+- The __thermal conductivity__ ($k$) is a value that indicates how quickly energy conducts through that material
     * A larger $k$ means a lot of energy is transfered 
 - A larger __area__ ($A$) allows more energy to flow than a smaller area
 - A larger __difference in temperatures__ ($T_f - T_0$) allows more heat to flow
@@ -179,7 +179,7 @@ Material comparisons:
 
 This is why fiberglass, double‑pane windows, and wool sweaters are good insulators—they trap air.
 
-> Fiberglass insulation has $k = 0.269 \tfrac{\text{ Btu}}{hr\cdot ft^2 \cdot \text{°F}}$.  What is the R‑value if it is **3.5 inches thick**?
+> Fiberglass insulation has $k = 0.269 \tfrac{\text{ Btu}}{hr\cdot ft^2 \cdot \text{°F}}$.  What is the R‑value if it is __3.5 inches thick__?
 >
 > $$R = \frac{x}{k} = \frac{3.5}{0.269} = 13.01$$
 
@@ -192,16 +192,19 @@ Units:
 
 $$1.0 \tfrac{W}{m·K} = 6.935 \tfrac{Btu\cdot in}{hr ft^2 °F}$$
 
+> Class Activity 8: Passive Heating - Part 1: Conduction
 
 ## Convection
 
-**Convection** is the transfer of energy as a fluid flows, carrying the energy with it.
+__Convection__ is the transfer of energy as a fluid flows, carrying the energy with it.
 
 - Example: Pot of soup — warm water rises  
 
 > Demo: Convection cycle  
 
 - We’ll focus on convection cycles in buildings to improve energy efficiency in a future lecture
+
+> Class Activity 8: Passive Heating - Part 2: Convection
 
 ## Radiation
 
@@ -240,4 +243,6 @@ Examples:
 - Earth: ~20°C → infrared radiation  
 - Sun: ~6000°C → visible (green) light  
 
-**Conduction, convection, and radiation** all occur simultaneously and together transfer energy.
+__Conduction, convection, and radiation__ all occur simultaneously and together transfer energy.
+
+> Class Activity 8: Passive Heating - Part 3: Radiation
