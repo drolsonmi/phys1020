@@ -18,7 +18,7 @@ Materials:
 * Stirling engine, Heating pot, Warm cup
 * Steam engine
 * Bouncy ball
-* Balance scale and objects to represent energy (1-g blocks, coins, etc.)
+* Balance scale, objects to represent energy (1-g blocks, coins, etc.)
 
 A __heat engine__ is a machine that utilizes the flow of heat to do work
 * There needs to be a difference in temperatures for heat to flow
@@ -31,9 +31,9 @@ A __heat engine__ is a machine that utilizes the flow of heat to do work
   * Without this difference in temperature, there is no flow of energy. And if we try to remove the cold sink, there is no flow of energy
 * Energy is conserved in the energy transfer process
 
-$$E_0=E_f \qquad\to\qquad E_out=E_in \qquad\to\qquad Q_H=W+Q_C$$
+$$E_0=E_f \qquad\to\qquad E_{out}=E_{in} \qquad\to\qquad Q_H=W+Q_C$$
 
-We can utilize this flow of energy to accomplish work:   W=Q_H-Q_C
+We can utilize this flow of energy to accomplish work:   $W = Q_H - Q_C$
 
 > Demo: Sterling Engine (Leave running until we talk about Entropy)
 
@@ -83,6 +83,13 @@ Can we ever convert 100% of the heat from the hot source to work?
 * Often what we think of as “waste heat” is just energy flowing to the cold sink
 * 2nd Law of Thermodynamics says energy has to flow hot to cold
 * If there is no cold sink, then there is no flow, and if there’s no flow, we can’t get work
+  * Think of a bike going downhill with a battery attached to the wheel - as the wheel rotates, the battery charges
+  * The larger the slope, the more energy you can extract.
+    * Likewise, the larger the difference in temperatures, the more work you can use from the process
+  * If you take away the slope, you can't extract any energy.
+    * Likewise, if you don't have a cold sink, there isn't anywhere for the energy to start flowing to, and if there is no flow, we can't do any work.
+
+[Image: Heat Engine]
 
 What is the most efficient we can ever get?
 * The efficiency of a heat engine is:
@@ -90,6 +97,7 @@ What is the most efficient we can ever get?
 $$Efficiency = \frac{Work~Out}{Energy~In}=\frac{W}{Q_H} \times 100\% \qquad Eff = \frac{Q_H-Q_C}{Q_H} \times 100%$$
 
 * The maximum efficiency reduces this heat down to temperatures
-$$Eff_max=\frac{T_H-T_C}{T_H}\times 100% 
+
+$$Eff_max=\frac{T_H-T_C}{T_H}\times 100\%$$
   
 *__Note__: To use this equation, the temperatures HAVE to be in Kelvin.*
